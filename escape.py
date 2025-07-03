@@ -7,7 +7,7 @@ import copy
 
 # Variables
 # size of area (length of x and y sides)
-GRIDSIZE = 10
+GRIDSIZE = 20
 # max number of lifepoints until you die
 MAX_LIFEPOINTS = 20
 
